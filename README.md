@@ -1,5 +1,5 @@
 
-# React-Expense-App-using-React-JS
+# Expense App with ReactJS
 
 Screenshots of proposed website
 
